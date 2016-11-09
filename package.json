@@ -1,0 +1,23 @@
+{
+  "name": "html5sass",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chmielik/html5sass.git"
+  },
+  "author": "daniel.chmiel@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chmielik/html5sass/issues"
+  },
+  "homepage": "https://github.com/Chmielik/html5sass#readme",
+  "description": "HTML5 boilerplate with Sass",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
